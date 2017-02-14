@@ -124,8 +124,8 @@ def main():
 
 ##########################################################################
 ##                          Stars                                       ##
-##    (A while loop would have been better but we were trying to clone  ##  
-##     them orignaly and then the idea just hit us to do this)          ##
+##    (A while loop would have been better but I was trying to clone  ##  
+##     them orignaly and then the idea just hit me to do this)          ##
 ##########################################################################
 
     print("Click 10 places to create 10 stars")
